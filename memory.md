@@ -13,4 +13,19 @@
 
 
 
+8.git branch clean_up
+git push --set-upstream origin tmp
+
+9.git checkout clean_up
+
+//change sth.
+10.git checkout master
+11.git merge clean_up
+
+12.git branch -d clean_up
+
+
+
+
+
 

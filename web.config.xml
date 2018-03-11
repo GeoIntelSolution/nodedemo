@@ -1,4 +1,4 @@
-<configuration>
+﻿<configuration>
     <system.webServer>
         <handlers>
             <add name="iisnode" path="app.js" verb="*" modules="iisnode" resourceType="Unspecified" requireAccess="Script" />
